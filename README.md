@@ -6,7 +6,7 @@ In this program we explore object-orientation principles and JUnit Testing.
 • Define classes, fields, constructors and methods
 • Manipulate collections of objects, lists and maps
 • Implement an inheritance structure
-• Use JUnit within Eclipse to define your own test classes.
+• Use JUnit within Eclipse to define test classes.
 • Exceptions and Error handling • Use of Generic classes
 • File reading/writing
 
